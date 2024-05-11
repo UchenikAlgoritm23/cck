@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(61, 141, 101);
+}
+
+a{
+    color: rgb(123, 255, 0);
+    font-size: 20px;
+    text-decoration: none;
+}
+header{
+    background-color: darkgreen;
+    padding: 5px;
+ 
+}
+.link-heade{
+    color: white;
+}
+
+
+nav{
+    padding: 5px;
+    margin-top: 5px;
+}
+.link-nav{
+    border: 3px solid darkgreen;
+    padding: 2px;
+   
+}
+h1{
+    text-align: center;
+}
